@@ -1,0 +1,6 @@
+#Fri, 23 Mar 2018 16:16:06 +0530
+
+info.app.version=0.1
+info.app.name=GadgetSecure
+grails.env=development
+info.app.grailsVersion=3.3.2
