@@ -1,0 +1,7 @@
+{
+  "name": "GadgetSecure",
+  "description": "Gradle based project for securing tools",
+  "logo": "https://scalingo.com/logo.svg",
+  "repository": "https://github.com/Seema5/GadgetSecure",
+  "website": "https://gadgetsecure.scalingo.io/"
+}
